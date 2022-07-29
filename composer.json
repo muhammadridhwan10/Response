@@ -1,0 +1,21 @@
+{
+    "name": "ridhwan/response",
+    "description": "Guzzle Response",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^6.0 || ^7.0 || ^8.0 || ^9.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ridhwan\\Response\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ridhwan",
+            "email": "ridhwanmuhammad772@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
